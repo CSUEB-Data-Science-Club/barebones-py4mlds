@@ -62,6 +62,9 @@ to reinforce the fundamentals / necessities when deriving / evaluating a model -
 - **SQLLITE3-1** - [Intro to SQL & DataBases](#TODO)
 - **SQL-1** - [Getting Setup for Structured Query Language ](#TODO)
 - **SQL-ALCHEMY-1** [Quick Data Collecting using Pandas](#TODO)
+</details>
+
+## Part 2 - ML & Data Science Fundamentals
 
 ### Python Data Analysis
 
