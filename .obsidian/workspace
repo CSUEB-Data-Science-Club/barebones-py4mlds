@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "9972106dd31a2ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "13b1612bc84edd80",
+        "type": "leaf",
+        "dimension": 43.01282051282052,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "78015afb6ef3daf5",
+        "type": "leaf",
+        "dimension": 56.98717948717948,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6a109c84ae5b019",
+    "type": "split",
+    "children": [
+      {
+        "id": "f340d81efab57b03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41811f98855d8185",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c81af4f602c7db0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#python",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce95f74ed3fa1587",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f0fc1987ef137fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b086145087d6e59d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "78015afb6ef3daf5",
+  "lastOpenFiles": [
+    "README.md",
+    "python/0-README.md",
+    "top-down-learning.md",
+    "SUMMARY.md",
+    "stats-2.md",
+    "data.md",
+    "LICENSE.md",
+    "links.md",
+    "ml-platform.md",
+    "python/3-basics.md"
+  ]
+}
